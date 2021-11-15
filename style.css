@@ -110,3 +110,5 @@ html.transition *::after {
   transition: all 0.5s !important;
   transition-delay: 0 !important;
 }
+
+/* this is messy but it's cool to know how to do it this way */
